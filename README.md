@@ -1,4 +1,4 @@
-## Hi there 👋
+# ego sbl who runs fbeod (full body every other day) that wants to be a professional cloud engineer
 
 <!--
 **tfos1/tfos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
